@@ -40,10 +40,7 @@ Well, that won't work. (This is why we practice!) In order to greet our guests, 
 or
 
 ```js
-"Hello, everybody!"
-```
-
-Single or double quotation marks can contain a string variable..
+"Hello, everybody!" variable..
 
 What if we want to say hi to a special guest, like Neil deGrasse Tyson? When we wrap strings in single or double quotes, we can join them together using the `+` operator:
 
